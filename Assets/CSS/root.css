@@ -1,0 +1,23 @@
+
+
+:root {
+    --bCPrimary--: #fbfcd1;
+    --bCSecondary--: #fffedc;
+    --fColor--: #252525;
+    --color2--: #00a9df;
+}
+:root {
+    --logo--: url('../IMAGE/logo.png');
+    --CfEffects--: #ff0000;
+    --Ceffects--: hsla(0, 94%, 48%, 0.314);
+    --fEffects--: #088EFF;
+    --effects--: hsla(0, 94%, 48%, 0.314);
+    --color2--: hsla(0, 94%, 48%, 0.314);
+    --shodow--: rgba(0, 0, 0, .2) 0 12px 20px 0;
+}
+
+.dark {
+    --bCPrimary--: #343434;
+    --bCSecondary--: #222;
+    --fColor--: #FFF;
+}
